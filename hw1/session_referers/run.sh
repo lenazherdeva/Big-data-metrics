@@ -1,0 +1,1 @@
+spark-submit --master yarn --num-executors 20 session_referers.py

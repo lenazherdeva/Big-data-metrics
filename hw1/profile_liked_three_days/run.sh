@@ -1,0 +1,1 @@
+spark-submit --master yarn --num-executors 8 profile_liked_three_days.py
